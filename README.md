@@ -4,7 +4,7 @@
 
 * 🎓 **Education:** B.Sc. Computer Science graduate from Tel Aviv University.
 * 💻 **Focus & Passion:** Love building robust backend systems and full-stack applications. I have hands-on experience developing web services, databases, and even low-level system programs.
-* 🚀 **Goal:** Actively seeking a junior **Backend/Full-Stack Developer** role where I can apply my skills in Java, Python, C++ and more to create scalable, efficient software.
+* 🚀 **Goal:** Actively seeking a junior **Software Developer** role where I can apply my skills in Java, Python, C++ and more to create scalable, efficient software.
 
 ## 🌟 Projects
 
